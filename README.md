@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<p><img align="center" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif" alt="adam-pw" /></p>
+<p align="center"><img align="center" src="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif" alt="adam-pw" /></p>
 <br>
 <br>
 
