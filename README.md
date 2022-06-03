@@ -13,7 +13,7 @@
 
 - 📫 How to reach me rizwanrasheed238@gmail.com
 
-- ⚡ Fun fact :- Love to Explore
+- ⚡ Fun fact :- I love to Travel,eat and CODE.
 
 <br>
 
