@@ -52,3 +52,10 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+## 📊 My Github Stats
+        
+  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanrasheed238&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+ <img alt="" src="https://github-profile-trophy.vercel.app/?username=rizwanrasheed238&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+<br/><br>
